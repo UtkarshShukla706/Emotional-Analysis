@@ -1,6 +1,6 @@
 # Emotional Sentiment Analysis
 
-A professional Streamlit-based data science project for detecting emotions from text using a trained machine learning model. The application supports both single text prediction and CSV batch prediction, making it useful for demonstrations, project submissions, and quick analysis of text datasets.
+
 
 ## Project Overview
 
